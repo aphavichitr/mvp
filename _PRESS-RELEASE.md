@@ -18,27 +18,28 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
-
+Social Notes
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-
+Any user can view and post notes
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-
+Social notes is an application that will allow users to view other user's notes and post their own notes. An authorized user will be allowed to comment and like other user's note(s). Users can search for any note(s) and will have access to all notes posted on Social Notes.
 ## Problem ##
   > Describe the problem your product solves.
-
+Many notes on the web are private and can only be shared to people who have access to a certain link. 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
-
+A lot of good information is inaccessible to the public, but Social Notes will provide that information to everyone.
 ## Quote from You ##
   > A quote from a spokesperson in your company.
-
+"Information should be easily accessible by everyone. Social Notes will save you time from looking up resources to help you learn, study, or whatever it is you are trying to do. Our mission is to help users focus on what they need to do, so that they don't need to waste time googling or searching."
 ## How to Get Started ##
   > Describe how easy it is to get started.
-
+"Getting started is as simple as visiting the homepage. Users can view all posts without signing up. Users that wish to post their notes can create an account and post their notes immediately. Users that wish to comment or like can also sign up immediately."
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-
+"Social Notes is great! It helps me when I study because there are so many resources that I have access to that I didn't have before. Before social notes, I didn't even know where to start looking. It's also a central place where I can find everything."
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+"Users can continue using Social Notes for future projects, jobs, etc., since new information will always be created and updated."
